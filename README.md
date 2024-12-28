@@ -4,6 +4,11 @@ In the digital age, building meaningful connections and exchanging ideas is more
 
 At its core, Lifes focuses on community engagement. The application revolves around rooms, virtual discussion spaces where users can converse on topics of mutual interest. Each room is associated with a specific topic and can host conversations that range from casual chats to deep discussions. This design makes Lifes a versatile platform, appealing to diverse user groups such as hobbyists, professionals, and students.
 
+Project Catogory:
+
+It is a web-based environment with Python with Django Framework 5.1.3.
+This application used REST API - Django REST Framework (DRF). At the client side will be using browsing software’s like Google Chrome, Mozilla Firefox etc. As frontend design is born using Python with HTML 5, Cascading Style Sheet (CSS), javascript and Bootstrap, with back-end/RDBMS: MySQL DB.
+
 Features That Foster Interaction
 Lifes boasts an array of features that make it more than just a chat application:
 
